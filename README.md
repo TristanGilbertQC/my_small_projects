@@ -11,25 +11,25 @@
 
 Content of section 1 goes here.
 
----
+
 
 ## Section 2
 
 Content of section 2 goes here.
 
----
+
 
 ## Section 3
 
 Content of section 3 goes here.
 
----
+
 
 ## Conclusion
 
 Summarize the main points of the document.
 
----
+
 
 ## References
 
